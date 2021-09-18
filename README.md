@@ -9,8 +9,10 @@
 
 ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
 
+<br />
+
 <details>
-  <summary>Click X_x -_- ^^</summary>
+  <summary>Click        X_x    -_-   ^^</summary>
   <pre>
   jté niké
   </pre>
