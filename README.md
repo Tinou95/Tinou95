@@ -7,4 +7,3 @@
 ![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)
 
 
-Une petite description du projet
