@@ -1,4 +1,9 @@
+
+
 <h1 align="center">Hi there, I'm <a href="https://github.com/Tinou95" target="_blank">Gameurz like rédan</a>
+ 
+ 
+<br/>
 
 ![forthebadge](https://forthebadge.com/images/badges/ages-18.svg)
 ![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)
@@ -7,15 +12,10 @@
 ![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)
 
 
-
-<br />
-
+<br/>
+ 
 <a href="#"><img align="right" src="https://www.icegif.com/wp-content/uploads/welcome-icegif-1.gif" width="200 " height="200" /></a>
 
-
- 
- <br />
- 
 **⛳️ Languages and Tools:**
  <p>
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png" height="40" style="vertical-align:down; margin:4px" alt="golang">
