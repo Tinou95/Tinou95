@@ -14,6 +14,7 @@
   <pre>
   jté niké
   </pre>
+ </details>
 
 ![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/mopig/mopig)
