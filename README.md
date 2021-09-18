@@ -1,4 +1,4 @@
-# Made by Tinou95
+<h1 align="center">Hi there, I'm <a href="https://github.com/Tinou95" target="_blank">Elon Tang</a>
 
 ![forthebadge](https://forthebadge.com/images/badges/ages-18.svg)
 ![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)
