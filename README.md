@@ -12,7 +12,7 @@
 <details>
   <summary>Click👆</summary>
   <pre>
-  🤷‍♂️
+  jté niké
   </pre>
 
 ![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
