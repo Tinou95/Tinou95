@@ -7,7 +7,6 @@
 ![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)
 
 
-![Leo's github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
 
 <br />
 
