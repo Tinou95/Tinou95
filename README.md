@@ -13,17 +13,9 @@
 
 <br/>
 
-<h1>
-  i really like music :headphones:
-</h1>
 
-<!-- Nothing weird to see here -->
-<p align="center">
-  <a href="https://andyruwruw.vercel.app/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://andyruwruw.vercel.app/api/now-playing">
-  </a>
-</p>
+
+
  
 <a href="#"><img align="right" src="https://www.icegif.com/wp-content/uploads/welcome-icegif-1.gif" width="200 " height="200" /></a>
  
@@ -53,6 +45,17 @@
 </p>
   
   </br>
+  
+  **I really like music :headphones:**
+
+
+<p align="center">
+  <a href="https://andyruwruw.vercel.app/api/now-playing?open">
+    <img src="https://andyruwruw.vercel.app/api/now-playing">
+  </a>
+</p>
+
+<br/>
   
   <details>
   <summary> <--- Click ici XD   X_x    ^^</summary>
