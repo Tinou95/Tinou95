@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/Tinou95" target="_blank">Elon Tang</a>
+<h1 align="center">Hi there, I'm <a href="https://github.com/Tinou95" target="_blank">Gameurz like rédan</a>
 
 ![forthebadge](https://forthebadge.com/images/badges/ages-18.svg)
 ![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)
@@ -12,16 +12,11 @@
 
 <a href="#"><img align="right" src="https://www.icegif.com/wp-content/uploads/welcome-icegif-1.gif" width="200 " height="200" /></a>
 
-<details>
-  <summary>Click    X_x    ^^</summary>
-  <pre>
-  jté niké
-  </pre>
- </details>
+
  
  <br />
  
- ## jsé fère sa
+**⛳️ Languages and Tools:**
  <p>
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png" height="40" style="vertical-align:down; margin:4px" alt="golang">
 <img src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" height="40" style="vertical-align:down; margin:4px" alt="golang">
@@ -33,6 +28,15 @@
 </p>
   
   </br>
+  
+  <details>
+  <summary> <--- Click ici XD   X_x    ^^</summary>
+  <pre>
+  jté niké
+  </pre>
+ </details>
+ 
+ </br>
  
                      
 ![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
