@@ -44,16 +44,7 @@
 
 </p>
   
-  </br>
-  
-  **I really like music :headphones:**
 
-
-<p align="center">
-  <a href="https://andyruwruw.vercel.app/api/now-playing?open">
-    <img src="https://andyruwruw.vercel.app/api/now-playing">
-  </a>
-</p>
 
 <br/>
   
