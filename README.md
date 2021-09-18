@@ -32,7 +32,7 @@
   <details>
   <summary> <--- Click ici XD   X_x    ^^</summary>
   <pre>
-  jté niké
+  jté niké fdp
   </pre>
  </details>
  
