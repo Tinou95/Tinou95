@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/Tinou95" target="_blank">Gameurz like rédan</a>
+<h1 align="center">Hi there, I'm  Gameurz like<a href="https://github.com/ryan-RB" target="_blank"> rédan</a>
  
  
 <br/>
