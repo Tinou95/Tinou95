@@ -1,6 +1,6 @@
 
 <pre>
-<h1 align="center">Hi there, I'm  Gameurz like<a href="https://github.com/ryan-RB" target="_blank"> rédan</a>
+<h1 align="center">Hi there, I'm student</a>
  </pre>
 
 
