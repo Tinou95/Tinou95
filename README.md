@@ -49,13 +49,7 @@
 
 
 <br/>
-  
-  <details>
 
-  <pre>
-
-  </pre>
- </details>
  
  </br>
  
