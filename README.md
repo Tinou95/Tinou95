@@ -51,7 +51,7 @@
 <br/>
   
   <details>
-  <summary> <--- Click ici XD   X_x    ^^</summary>
+
   <pre>
 
   </pre>
