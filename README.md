@@ -41,7 +41,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-nodejs.svg" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
 <img src="https://gabrielaugusto.me/wp-content/uploads/2021/06/Java_Logo.png" height="40" style="vertical-align:down; margin:4px" alt="golang">
 <img src="https://www.ideematic.com/wp-content/uploads/2018/02/mysql.png" height="40" style="vertical-align:down; margin:4px" alt="golang">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-golang.svg" height="40" style="vertical-align:down; margin:4px" alt="golang">
+
 
 
 </p>
