@@ -18,9 +18,9 @@
 <p align="center">
   <a href="#"><img align="center" src="https://www.icegif.com/wp-content/uploads/welcome-icegif-1.gif" width="200" height="200" /></a>
 </p>
-<p align="center">
+<h3 align="center">
   🔗 &nbsp;<strong>Connect with me</strong> &nbsp;🔗
-</p>
+</h3>
 <p align="center">
   <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev-dot-to" height="30" width="40" /></a>
   <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
