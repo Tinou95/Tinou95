@@ -14,6 +14,7 @@ Pendant 3 ans d'alternance à la Préfecture de Police de Paris, j'ai conçu et 
 ## Projets
 
 - [suivi-demandes](https://github.com/Tinou95/suivi-demandes) : application de suivi de demandes inter-équipes (formulaires, workflow de validation, droits par équipe). Projet de démonstration, données fictives.
+- [reservation-salles-api](https://github.com/Tinou95/reservation-salles-api) : API REST de réservation de salles (JWT, rôles, détection de conflits de créneaux). Projet de démonstration, données fictives.
 - [instagram-auto](https://github.com/Tinou95/instagram-auto) : publication quotidienne sur Instagram via GitHub Actions, pour ma boutique Shopify.
 - [PPE_streaming](https://github.com/Tinou95/PPE_streaming) : site PHP/SQL avec inscription, connexion et gestion d'événements, projet de BTS SIO.
 - [Portfolio](https://tinou95.github.io/Portfolio_Github/) : présentation de mon parcours, dont l'étude de cas de la plateforme de la Préfecture.
