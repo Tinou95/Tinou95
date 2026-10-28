@@ -1,80 +1,23 @@
+# Quentin Andrieu
 
-<pre>
-<h1 align="center">Welcome to my profile</a>
- </pre>
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/ages-18.svg" alt="forthebadge">
-  <img src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="forthebadge">
-  <img src="https://forthebadge.com/images/badges/uses-html.svg" alt="forthebadge">
-  <img src="https://forthebadge.com/images/badges/uses-css.svg" alt="forthebadge">
-  <img src="https://forthebadge.com/images/badges/uses-js.svg" alt="forthebadge">
-</p>
+Développeur web full stack, Île-de-France. Disponible en CDI/CDD.
 
+Pendant 3 ans d'alternance à la Préfecture de Police de Paris, j'ai conçu et développé une plateforme collaborative inter-bureaux qui a remplacé un suivi Excel pour 150 utilisateurs, puis développé et maintenu 3 autres applications métiers internes. Ces applications sont internes : je les décris, je ne les publie pas.
 
-<br/>
+## Stack
 
+- **Langages** : TypeScript, JavaScript, PHP, SQL, HTML, CSS
+- **Back-end** : Node.js, Express, Sequelize, architecture MVC
+- **Front-end** : EJS, WordPress. React : notions, vu en formation
+- **Outils** : Git, GitLab CI/CD, GitHub Actions, PM2, cPanel
 
+## Projets
 
-<p align="center">
-  <a href="#"><img align="center" src="https://www.icegif.com/wp-content/uploads/welcome-icegif-1.gif" width="200" height="200" /></a>
-</p>
-<h3 align="center">
-  🔗 &nbsp;<strong>Connect with me</strong> &nbsp;🔗
-</h3>
-<p align="center">
-  <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev-dot-to" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked-in-alt" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack-overflow" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-</p>
- 
- 
-<div align="center">
-  <h3>⛳️ Languages and Tools</h3>
-  <p>
-    <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png" height="40" style="vertical-align:down; margin:4px" alt="HTML5">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" height="40" style="vertical-align:down; margin:4px" alt="CSS3">
-    <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="JavaScript">
-    <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-nodejs.svg" height="40" style="vertical-align:down; margin:4px" alt="Node.js">
-    <img src="https://gabrielaugusto.me/wp-content/uploads/2021/06/Java_Logo.png" height="40" style="vertical-align:down; margin:4px" alt="Java">
-    <img src="https://www.ideematic.com/wp-content/uploads/2018/02/mysql.png" height="40" style="vertical-align:down; margin:4px" alt="MySQL">
-  </p>
-</div>
+- [suivi-demandes](https://github.com/Tinou95/suivi-demandes) : application de suivi de demandes inter-équipes (formulaires, workflow de validation, droits par équipe). Projet de démonstration, données fictives.
+- [instagram-auto](https://github.com/Tinou95/instagram-auto) : publication quotidienne sur Instagram via GitHub Actions, pour ma boutique Shopify.
+- [PPE_streaming](https://github.com/Tinou95/PPE_streaming) : site PHP/SQL avec inscription, connexion et gestion d'événements, projet de BTS SIO.
+- [Portfolio](https://tinou95.github.io/Portfolio_Github/) : présentation de mon parcours, dont l'étude de cas de la plateforme de la Préfecture.
 
+## Contact
 
-
-<br/>
-
- 
- </br>
- 
-
-
-<p align="center">
-  <strong>Github Stats</strong>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tinou95&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true" alt="Sy's github stats">
-</p>
-<p align="center">
-  <strong>Top Languages</strong>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinou95&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact" alt="Sy's top languages">
-</p>
-
-
-
-<img height="120" alt="Merci d'être venu" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
-                     
-![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/mopig/mopig)
-![pv](https://pageview.vercel.app/?github_user=mopig)
-
-
-
-
-
- 
+[Portfolio](https://tinou95.github.io/Portfolio_Github/) · [LinkedIn](https://www.linkedin.com/in/quentin-andrieu-5a3213235/) · quentinandrieu@yahoo.com
